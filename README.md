@@ -4,7 +4,8 @@
 - 📍 Living in **Lisbon, Portugal**
 - 📜 Check out my [CV][cv]
 - 🌐 Visit my [linkedin][linkedin]
-- 🎓 Studing Computer Science (LEIC) at Instituto Superior Técnico
+- 🎓 Studied Computer Science (LEIC) at Instituto Superior Técnico
+- 🎓 Studing Software Engineering (MEI) at Faculdade de Ciências da Universidade de Lisboa
 
 <h2 align="left">Tools and Languages</h2>
 <p align="left"> 
