@@ -28,5 +28,5 @@
 
 
 
-[cv]: https://github.com/GustavoCostaHenriques/GustavoCostaHenriques/blob/main/assets/Curr%C3%ADculo.pdf
+[cv]: https://github.com/GustavoCostaHenriques/GustavoCostaHenriques/blob/main/assets/Currículo.pdf
 [linkedin]: https://linkedin.com/in/gustavo-henriques-799640282
